@@ -1,0 +1,16 @@
+.sectionContainer {
+
+    width: 100%;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    box-sizing: border-box;
+}
+
+.backgroundColor:nth-child(odd)
+{
+    background-color: #fdfcfb;
+}
